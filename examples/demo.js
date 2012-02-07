@@ -1,5 +1,9 @@
 var tasker = require('../');
 
+tasker.afterRun = function () {
+  console.log('Done');
+}
+
 // Namespaces:
 tasker.namespace('example', function () {
   
