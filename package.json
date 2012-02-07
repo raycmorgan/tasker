@@ -1,0 +1,11 @@
+{ "name": "tasker"
+, "description": "Simple command line tasks. Kinda like Make, Rake, Jake, Whatever-ake"
+, "keywords": ["tasks","scripts"]
+, "version" : "0.1.0"
+, "homepage": "http://github.com/raycmorgan/tasker"
+, "author" : "RayMorgan <ray@rumgr.com>"
+, "main" : "index"
+, "dependencies": {
+    "optimist": "0.3.1"
+  }
+}
