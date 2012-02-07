@@ -12,7 +12,7 @@ Tasker is inspired by rake, jake, make, and-many-other-ake's
 
 ## Example Tasker Script
 
-    var tasker = require('../');
+    var tasker = require('tasker');
 
     // Namespaces:
     tasker.namespace('example', function () {
