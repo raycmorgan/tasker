@@ -71,3 +71,4 @@ Tasker is inspired by rake, jake, make, and-many-other-ake's
 Tasker exports 6 functions. Other than that everything is pure, normal Node.js.
 For example, you can use `require` to pull in tasks from other files. Just make
 sure that you call `tasker.run()` last.
+
